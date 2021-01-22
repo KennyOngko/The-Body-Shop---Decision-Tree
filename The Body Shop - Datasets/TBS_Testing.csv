@@ -1,0 +1,51 @@
+CustomerID;CustomerName ;CustomerGender;CustomerDOB;CustomerAddress;CustomerNumber;CustomerEmail;MaritalStatus;WebsiteActivity;PaymentMethod
+C0211;Tira Uchita Pratiwi;Female;14/02/1971;Ds. Bawal No. 160, Palopo 52639, KalSel;(+62) 835 7970 293;tirauiwi@gmail.com;Single;4;Credit
+C0212;Bakidin Januar;Male;10/08/1971;Ki. Basudewo No. 581, Bogor 78539, Riau;(+62) 835 7970 294;bakiduar@gmail.com;Single;2;Bank Transfer
+C0213;Kuncara Pratama;Male;01/01/1972;Dk. Otista No. 257, Mojokerto 72867, Maluku;(+62) 835 7970 295;kuncama@gmail.com;Single;1;Credit
+C0214;Galak Mandala;Male;07/09/1972;Jr. Bahagia No. 714, Manado 85811, DKI;(+62) 835 7970 296;galati@gmail.com;Single;5;Bank Transfer
+C0215;Taufan Saragih;Male;19/10/1974;Ki. Bambu No. 883, Magelang 94996, MalUt;(+62) 835 7970 297;taufaspd@gmail.com;Single;2;Internet Payment
+C0216;Saka Saputra;Male;29/11/1976;Jr. Suryo No. 119, Administrasi Jakarta Selatan 26891, PapBar;(+62) 846 2200 2826;sakasase@gmail.com;Single;2;Credit
+C0217;Zulaikha Wahyuni;Female;04/10/1977;Ki. Raya Ujungberung No. 114, Serang 69784, SulBar;-1934;zulaiksos@gmail.com;Single;1;Virtual Account
+C0218;Jasmani Warsita Sihombing;Male;12/03/1981;Jr. Abdul. Muis No. 811, Ambon 11491, SumBar;-1831;jasmaing@gmail.com;Single;4;Credit
+C0219;Endra Habibi;Male;14/04/1983;Dk. Supono No. 421, Lhokseumawe 96219, JaTeng;-1574;endribi@gmail.com;Single;1;Virtual Account
+C0220;Nurul Astuti;Female;30/11/1983;Ki. Sutarjo No. 529, Langsa 75831, Lampung;-1672;nuruti@gmail.com;Single;1;Credit
+C0221;Anastasia Wastuti;Female;10/02/1984;Dk. Sutoyo No. 933, Banda Aceh 85849, SulUt;-2179;anastauti@gmail.com;Single;4;Bank Transfer
+C0222;Kamal Winarno;Male;06/03/1985;Jr. Yohanes No. 505, Prabumulih 10825, Riau;-1982;kamalwno@gmail.com;Single;4;Bank Transfer
+C0223;Bakidin Paiman Kusumo ;Male;11/09/1985;Ki. Bakhita No. 791, Dumai 84157, SulUt;-1660;bakigz@gmail.com;Married;5;Bank Transfer
+C0224;Laras Eli Utami;Female;20/09/1985;Jr. Basuki No. 309, Bandar Lampung 91375, Bengkulu;-1988;larami@gmail.com;Married;3;Internet Payment
+C0225;Gina Zulaika;Female;23/06/1988;Kpg. Arifin No. 926, Mojokerto 67350, SulBar;-1754;ginaka@gmail.com;Married;2;Internet Payment
+C0226;Dian Rahmawati;Female;28/04/1991;Gg. Kalimantan No. 872, Binjai 87798, SumSel;-2147;dianrati@gmail.com;Married;2;Credit
+C0227;Cengkir Latupono;Male;11/10/1994;Kpg. Dewi Sartika No. 393, Bitung 44366, Jambi;-2241;cengno@gmail.com;Married;1;Credit
+C0228;Endah Widiastuti;Female;19/01/1996;Jr. Baung No. 682, Kendari 18818, NTB;-1997;endahuti@gmail.com;Married;5;Bank Transfer
+C0229;Sabri Wibisono;Male;05/02/1998;Ki. Warga No. 504, Medan 97480, Lampung;-1509;sabriono@gmail.com;Married;3;Virtual Account
+C0230;Wadi Maryadi Sirait;Male;04/04/1998;Gg. Ki Hajar Dewantara No. 214, Binjai 32897, SulTra;-2178;wadimom@gmail.com;Married;1;Credit
+C0231;Febi Elisa Puspita;Female;14/08/1999;Jln. Madrasah No. 421, Banjar 73750, JaBar;-1908;febist@gmail.com;Married;3;Internet Payment
+C0232;Kamal Suwarno;Male;11/08/2000;Psr. Kartini No. 935, Batu 23246, PapBar;-1710;kamalno@gmail.com;Married;4;Credit
+C0233;Maimunah Syahrini Winarsih;Female;17/05/2001;Jln. Setiabudhi No. 60, Administrasi Jakarta Selatan 61054, SumSel;-1912;maimupd@gmail.com;Married;1;Credit
+C0234;Kamaria Uyainah;Female;28/05/2001;Psr. Raden Saleh No. 183, Sawahlunto 99425, Maluku;(+62) 816 2200 2827;kamariei@gmail.com;Married;1;Bank Transfer
+C0235;Melinda Ulva Yuniar;Female;03/09/2001;Kpg. Jaksa No. 508, Bandar Lampung 21025, SulTra;(+62) 816 2200 2828;melindiar@gmail.com;Married;1;Virtual Account
+C0236;Cecep Jinawi Prabowo;Male;06/05/1971;Jln. Jaksa No. 368, Palembang 80559, KalSel;(+62) 816 2200 2829;cecemak@gmail.com;Married;1;Credit
+C0237;Darijan Ramadan;Male;09/11/1971;Dk. Ters. Pasir Koja No. 428, Madiun 61756, Riau;(+62) 816 2200 2830;darijadan@gmail.com;Married;4;Virtual Account
+C0238;Betania Dina Hartati;Female;11/11/1971;Ds. Taman No. 507, Serang 81298, KalTim;(+62) 816 2200 2831;betaniist@gmail.com;Married;3;Internet Payment
+C0239;Maida Eli Widiastuti;Female;04/08/1975;Dk. Bahagia No. 676, Yogyakarta 71983, Gorontalo;(+62) 816 2200 2832;maidaerm@gmail.com;Married;1;Credit
+C0240;Harsaya Hakim;Male;13/08/1976;Jln. Padma No. 631, Bima 14330, Gorontalo;(+62) 816 2200 2833;harskim@gmail.com;Single;3;Bank Transfer
+C0241;Lulut Rajata;Male;07/09/1978;Ds. Pelajar Pejuang 45 No. 818, Lhokseumawe 52362, SulTeng;(+62) 816 2200 2834;luluei@gmail.com;Single;5;Internet Payment
+C0242;Jabal Hutagalung;Male;18/02/1979;Kpg. Thamrin No. 489, Prabumulih 58915, SulBar;(+62) 839 2210 2820;jabang@gmail.com;Single;4;Credit
+C0243;Tira Purwanti;Female;07/03/1981;Ds. Baranang Siang Indah No. 321, Batu 49521, SumBar;(+62) 839 2210 2821;tiraputi@gmail.com;Single;2;Bank Transfer
+C0244;Liman Saadat Wijaya;Male;25/07/1981;Psr. Flora No. 344, Tarakan 57744, Gorontalo;(+62) 839 2210 2822;limanse@gmail.com;Single;5;Virtual Account
+C0245;Titin Yuliarti;Female;02/09/1981;Jr. Ikan No. 193, Pangkal Pinang 95869, SulBar;(+62) 839 2210 2823;titinom@gmail.com;Single;2;Bank Transfer
+C0246;Nugraha Napitupulu;Male;23/04/1983;Jr. Aceh No. 184, Magelang 53035, Papua;(+62) 839 2210 2824;nugrkom@gmail.com;Single;5;Credit
+C0247;Rendy Prayoga;Male;10/05/1984;Jr. Yohanes No. 679, Tanjungbalai 55559, Bali;(+62) 839 2210 2825;rendga@gmail.com;Single;2;Bank Transfer
+C0248;Cakrabuana Setiawan;Male;01/12/1984;Ki. Gajah No. 436, Bandar Lampung 88675, Papua;(+62) 839 2210 2826;cakrabsos@gmail.com;Single;3;Internet Payment
+C0249;Harjasa Bakidin Winarno;Male;08/01/1985;Psr. Madiun No. 361, Serang 47911, Aceh;(+62) 839 2210 2827;harjmpd@gmail.com;Single;2;Credit
+C0250;Mila Maryati;Female;16/06/1987;Ds. Samanhudi No. 181, Pontianak 76567, NTB;(+62) 819 1810 1390;milati@gmail.com;Single;2;Virtual Account
+C0251;Shakila Susanti;Female;03/07/1987;Jln. Cut Nyak Dien No. 931, Administrasi Jakarta Timur 57347, Lampung;(+62) 819 1810 1391;shakinti@gmail.com;Single;4;Credit
+C0252;Kezia Rahayu;Female;05/05/1988;Ds. Urip Sumoharjo No. 676, Bengkulu 36860, JaTeng;(+62) 819 1810 1392;keziayu@gmail.com;Single;2;Bank Transfer
+C0253;Emong Mahfud Kusumo;Male;23/09/1990;Psr. Kusmanto No. 428, Pagar Alam 23468, KalBar;(+62) 819 1810 1393;emongmgz@gmail.com;Single;5;Internet Payment
+C0254;Queen Kuswandari;Female;15/11/1992;Psr. Bappenas No. 697, Administrasi Jakarta Utara;(+62) 819 1810 1394;queeri@gmail.com;Single;4;Credit
+C0255;Calista Nasyiah;Female;18/11/1994;Jln. Jambu No. 680, Mojokerto 18150, JaTim;(+62) 819 1810 1395;caliiah@gmail.com;Single;5;Bank Transfer
+C0256;Dian Dina Farida;Female;04/07/1995;Ds. Pelajar Pejuang 45 No. 380, Kupang 42164, DKI;(+62) 819 1810 1396;diandash@gmail.com;Married;2;Virtual Account
+C0257;Novi Sudiati;Female;15/07/1996;Gg. Urip Sumoharjo No. 697, Bima 71106, Aceh;(+62) 819 1810 1397;novisuti@gmail.com;Married;3;Credit
+C0258;Wadi Wakiman Maheswara;Male;09/10/1996;Jln. Babadan No. 833, Balikpapan 32940, KalTim;(+62) 819 1810 1398;wadiwakom@gmail.com;Married;3;Bank Transfer
+C0259;Gina Palastri;Female;21/07/1998;Ds. Bakhita No. 1, Kediri 20725, KalTim;(+62) 819 1810 1399;ginapatri@gmail.com;Married;1;Internet Payment
+C0260;Laksana Ardianto;Male;29/04/2000;Gg. Jagakarsa No. 333, Madiun 19551, SulTeng;(+62) 819 1810 1400;laksato@gmail.com;Married;3;Credit

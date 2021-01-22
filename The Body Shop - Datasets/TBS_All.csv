@@ -1,0 +1,261 @@
+﻿CustomerID;CustomerName ;CustomerGender;CustomerDOB;CustomerAddress;CustomerNumber;CustomerEmail;MaritalStatus;WebsiteActivity;PaymentMethod;MajorProductCategory
+C0001;Bagus Suwarno;Male ;1/26/1974;Ds. Urip Sumoharjo No. 676, Bengkulu 36860, JaTeng;0817-555-869;bagussuwarno@gmail.com;Single;3;Internet Payment;Body Lotion
+C0002;Darman Wacana ;Male ;09/06/1983;Psr. Kusmanto No. 428, Pagar Alam 23468, KalBar;0899-555-382;darmanwacana@gmail.com;Single;4;Credit;Shampoo
+C0003;Limar Jaga Widodo;Male ;1/30/1977;Psr. Bappenas No. 697, Administrasi Jakarta Utara;0838-555-603;limarjagawidodo@gmail.com;Single;1;Bank Transfer;Shampoo
+C0004;Harjo Balamantri Mansur ;Male ;5/13/1982;Jln. Jambu No. 680, Mojokerto 18150, JaTim;0878-555-460;harjobalamantrimansur@gmail.com;Single;2;Credit;Shampoo
+C0005;Praba_Harjasa_Halim ;Male ;01/02/1975;Ds. Pelajar Pejuang 45 No. 380, Kupang 42164, DKI;0859-555-222;praba_harjasa_halim@gmail.com;Single;2;Bank Transfer;Shampoo
+C0006;Arta Jailani S.Kom;Male ;10/24/1987;Gg. Urip Sumoharjo No. 697, Bima 71106, Aceh;0878-555-301;artajailanis.kom@gmail.com;Single;2;Internet Payment;Shampoo
+C0007;Enteng Mariadi Saragih M.TI;Male ;11/20/1999;Jln. Babadan No. 833, Balikpapan 32940, KalTim;0858-555-828;entengmariadisaragihm.ti@gmail.com;Single;4;Credit;Shower Gel
+C0008;Dr.Hendri Suwarno;Male ;9/17/1992;Ds. Bakhita No. 1, Kediri 20725, KalTim;0816-555-673;dr.hendrisuwarno@gmail.com;Single;1;Bank Transfer;Shower Gel
+C0009;Bagiya Gunarto;Male ;08/09/1982;Gg. Jagakarsa No. 333, Madiun 19551, SulTeng;0838-555-329;bagiyagunarto@gmail.com;Single;1;Virtual Account;Shampoo
+C0010;Dadi Putra;Male ;24/04/1977;Ds. Imam Bonjol No. 927, Bandar Lampung 38012, Aceh;0856-555-639;dadiputra@gmail.com;Single;1;Credit;Shampoo
+C0011;Purwa Zulkarnain ;Male ;23/11/1989;Gg. Ki Hajar Dewantara No. 214, Binjai 32897, SulTra;0818-555-393;purwazulkarnain@gmail.com;Single;2;Bank Transfer;Shampoo
+C0012;Tugiman Sitompul;Male ;29/08/2002;Jln. Madrasah No. 421, Banjar 73750, JaBar;0838-555-105;tugimansitompul@gmail.com;Single;5;Virtual Account;EDT
+C0013;Lamar Narpati;Male ;02/06/1989;Psr. Kartini No. 935, Batu 23246, PapBar;0896-555-920;lamarnarpati@gmail.com;Married;5;Bank Transfer;Shampoo
+C0014;Daliman Utama;Male ;06/01/1980;Jln. Setiabudhi No. 60, Administrasi Jakarta Selatan 61054, SumSel;0878-555-917;dalimanutama@gmail.com;Married;2;Internet Payment;Shampoo
+C0015;Kusuma Warta Pranowo ;Male ;07/07/1984;Psr. Raden Saleh No. 183, Sawahlunto 99425, Maluku;0858-555-792;kusumawartapranowo@gmail.com;Married;2;Internet Payment;Shampoo
+C0016;Daru Garan Hutapea;Male ;15/07/2000;Kpg. Jaksa No. 508, Bandar Lampung 21025, SulTra;0853-555-211;darugaranhutapea@gmail.com;Married;3;Credit;EDT
+C0017;Damar Prayogo Firgantoro ;Male ;28/06/1997;Jln. Jaksa No. 368, Palembang 80559, KalSel;0815-555-696;damarprayogofirgantoro@gmail.com;Married;4;Bank Transfer;Shower Gel
+C0018;Artanto Lurhur Santoso ;Male ;10/04/1981;Dk. Ters. Pasir Koja No. 428, Madiun 61756, Riau;0-897-555-605;artantolurhursantoso@gmail.com;Married;5;Internet Payment;Shampoo
+C0019;Himawan Latupono ;Male ;27/12/1991;Kpg. Supomo No. 4, Pariaman 30449, Banten;0818-555-778;himawanlatupono@gmail.com;Married;5;Credit;Shower Gel
+C0020;Jumari Samosir;Male ;03/01/1989;Jln. Batako No. 955, Batu 53175, Papua;0838-555-601;jumarisamosir@gmail.com;Married;4;Bank Transfer;Shampoo
+C0021;Malika Jelita Suryatmi S.Kom;Female;04/07/1994;Kpg. Hang No. 81, Magelang 59924, SumBar;0896-555-416;malikajelitasuryatmis.kom@gmail.com;Married;5;Virtual Account;EDT
+C0022;Putri Paris Suartini S.Pd;Female;6/18/2001;Jln. Ketandan No. 38, Lubuklinggau 44844, KepR;0855-555-156;putriparissuartinis.pd@gmail.com;Married;3;Credit;Body Mist
+C0023;Sakura Susanti;Female;1/25/1991;Jr. Pelajar Pejuang 45 No. 760, Pasuruan 13930, PapBar;0897-555-876;sakurasusanti@gmail.com;Married;3;Bank Transfer;EDT
+C0024;Zaenab Yuniar ;Female;12/21/1995;Dk. Bagis Utama No. 636, Palangka Raya 61042, DIY;0898-555-153;zaenabyuniar@gmail.com;Married;1;Bank Transfer;EDT
+C0025;Elisa Hariyah;Female;12/07/1992;Psr. Bahagia No. 566, Ternate 11323, SumSel;0838-555-541;elisahariyah@gmail.com;Married;1;Virtual Account;EDT
+C0026;Oni Kuswandari;Female;9/25/1977;Kpg. Babakan No. 29, Tanjung Pinang 43706, JaBar;0838-555-299;onikuswandari@gmail.com;Married;3;Bank Transfer;Shower Gel
+C0027;Victoria Maida Nasyiah ;Female;6/28/1977;Psr. Ki Hajar Dewantara No. 683, Blitar 95293, PapBar;0899-555-916;victoriamaidanasyiah@gmail.com;Married;5;Internet Payment;Shower Gel
+C0028;Qori Oktaviani ;Female;9/14/1974;Kpg. Bagonwoto No. 966, Bau-Bau 22177, MalUt;0878-555-949;qorioktaviani@gmail.com;Married;2;Internet Payment;Body Lotion
+C0029;Usyi Pudjiastuti;Female;2/28/1982;Jr. Taman No. 194, Palopo 47636, NTT;0818-555-443;usyipudjiastuti@gmail.com;Married;5;Credit;Shower Gel
+C0030;Siti Hartati;Female;06/11/1974;Jln. Nangka No. 31, Padangsidempuan 26167, Gorontalo;0838-555-816;sitihartati@gmail.com;Single;3;Bank Transfer;Body Lotion
+C0031;Maria Ifa Mayasari ;Female;12/11/1991;Jln. Jagakarsa No. 476, Manado 50244, SulTra;0859-555-889;mariaifamayasari@gmail.com;Single;1;Internet Payment;EDT
+C0032;Ajeng Lailasari;Female;28/03/1970;Jln. Bah Jaya No. 963, Pagar Alam 68729, KalSel;0898-555-606;ajenglailasari@gmail.com;Single;2;Credit;Body Lotion
+C0033;Oliva Hastuti ;Female;23/01/1980;Ds. Taman No. 507, Serang 81298, KalTim;0857-555-159;olivahastuti@gmail.com;Single;1;Bank Transfer;Shower Gel
+C0034;Kayla Indah Mardhiyah;Female;30/11/1974;Dk. Bahagia No. 676, Yogyakarta 71983, Gorontalo;0878-555-807;kaylaindahmardhiyah@gmail.com;Single;1;Virtual Account;Body Lotion
+C0035;Vanesa Karen Yuliarti;Female;19/11/1999;Jln. Padma No. 631, Bima 14330, Gorontalo;0838-555-577;vanesakarenyuliarti@gmail.com;Single;3;Credit;EDT
+C0036;Uchita Usamah;Female;29/04/1980;Ds. Pelajar Pejuang 45 No. 818, Lhokseumawe 52362, SulTeng;0811-555-406;uchitausamah@gmail.com;Single;3;Bank Transfer;Shower Gel
+C0037;Genta Permata;Female;08/08/1972;Kpg. Thamrin No. 489, Prabumulih 58915, SulBar;0858-555-561;gentapermata@gmail.com;Single;4;Virtual Account;Hand Cream
+C0038;Suci Violet Wijayanti;Female;24/05/1982;Ds. Baranang Siang Indah No. 321, Batu 49521, SumBar;0854-555-608;sucivioletwijayanti@gmail.com;Single;1;Bank Transfer;Shower Gel
+C0039;Alika Putri Puspasari ;Female;12/21/2001;Psr. Flora No. 344, Tarakan 57744, Gorontalo;0838-555-234;alikaputripuspasari@gmail.com;Single;3;Internet Payment;Body Mist
+C0040;Siska Nasyidah;Female;06/07/1984;Jr. Ikan No. 193, Pangkal Pinang 95869, SulBar;0814-555-605;siskanasyidah@gmail.com;Single;5;Internet Payment;Shower Gel
+C0041;Harsanto Wijaya;Male ;8/26/1991;Jr. Aceh No. 184, Magelang 53035, Papua;0855-555-687;harsantowijaya@gmail.com;Single;2;Credit;Shower Gel
+C0042;Cawisadi Pradipta;Male ;02/10/1986;Jr. Yohanes No. 679, Tanjungbalai 55559, Bali;0899-555-729;cawisadipradipta@gmail.com;Single;5;Bank Transfer;Shampoo
+C0043;Gangsar Kala Nugroho M.Farm;Male ;8/20/1989;Ki. Gajah No. 436, Bandar Lampung 88675, Papua;0878-555-724;gangsarkalanugrohom.farm@gmail.com;Single;1;Internet Payment;Shampoo
+C0044;Rafi Mustofa;Male ;01/10/1991;Psr. Madiun No. 361, Serang 47911, Aceh;0897-555-568;rafimustofa@gmail.com;Single;2;Credit;Shower Gel
+C0045;Halim Damanik;Male ;8/17/1973;Ds. Samanhudi No. 181, Pontianak 76567, NTB;0838-555-380;halimdamanik@gmail.com;Single;5;Bank Transfer;Body Lotion
+C0046;Elvin Mandala S.E.I;Male ;12/20/1986;Jln. Cut Nyak Dien No. 931, Administrasi Jakarta Timur 57347, Lampung;0878-555-611;elvinmandalas.e.i@gmail.com;Married;3;Virtual Account;Shampoo
+C0047;Saadat Sinaga;Male ;6/22/1977;Kpg. Banal No. 106, Metro 26787, Banten;0878-555-133;saadatsinaga@gmail.com;Married;5;Bank Transfer;Shampoo
+C0048;Endra Waluyo M.Kom.;Male ;10/27/1997;Dk. Babakan No. 604, Sibolga 91854, SumBar;0838-555-847;endrawaluyom.kom.@gmail.com;Married;2;Virtual Account;Shower Gel
+C0049;Nrima Prakosa Permadi S.I.Kom;Male ;2/27/1997;Kpg. Baik No. 635, Pasuruan 17734, SulBar;0838-555-283;nrimaprakosapermadis.i.kom@gmail.com;Married;2;Credit;Shower Gel
+C0050;Tirta Waskita S.IP;Male ;5/24/1971;Ki. Bambon No. 702, Palangka Raya 64688, Aceh;0838-555-923;tirtawaskitas.ip@gmail.com;Married;5;Bank Transfer;Body Lotion
+C0051;Viman Pradipta S.Ked;Male ;26/10/1985;Kpg. Baja No. 238, Sungai Penuh 14384, MalUt;0838-555-942;vimanpradiptas.ked@gmail.com;Married;4;Virtual Account;Shampoo
+C0052;Emin Saputra;Male ;12/07/1979;Ds. Moch. Yamin No. 378, Pagar Alam 36846, KalBar;0899-555-620;eminsaputra@gmail.com;Married;4;Bank Transfer;Shampoo
+C0053;Ajiono Pranowo;Male ;05/08/2000;Dk. Agus Salim No. 111, Makassar 77144, Gorontalo;0896-555-373;ajionopranowo@gmail.com;Married;5;Internet Payment;EDT
+C0054;Kamal Saefullah;Male ;07/02/1970;Psr. Basuki No. 164, Depok 92675, DIY;0819-555-870;kamalsaefullah@gmail.com;Married;5;Internet Payment;Body Lotion
+C0055;Maman Hardiansyah;Male ;13/02/1981;Psr. Gedebage Selatan No. 783, Tangerang 54765, Jambi;0858-555-387;mamanhardiansyah@gmail.com;Married;5;Credit;Shampoo
+C0056;Fitria Yolanda ;Female;20/12/1971;Ds. Achmad Yani No. 478, Surakarta 61824, KalSel;0878-555-672;fitriayolanda@gmail.com;Married;1;Credit;Body Lotion
+C0057;Kamila Agnes Haryanti S.Farm;Female;04/08/1991;Jr. Kalimalang No. 882, Subulussalam 83175, NTB;0898-555-264;kamilaagnesharyantis.farm@gmail.com;Married;2;Bank Transfer;EDT
+C0058;Kamila Agnes Haryanti S.Farm;Female;04/08/1991;Jr. Kalimalang No. 882, Subulussalam 83175, NTB;0898-555-264;kamilaagnesharyantis.farm@gmail.com;Married;2;Bank Transfer;EDT
+C0059;Rahmi Azalea Utami;Female;11/10/1993;Dk. Dipenogoro No. 471, Banjarbaru 81830, NTT;0838-555-857;rahmiazaleautami@gmail.com;Married;3;Virtual Account;EDT
+C0060;Carla Yuliarti;Female;17/12/1987;Gg. Tangkuban Perahu No. 431, Bandar Lampung 25453, NTB;0878-555-828;carlayuliarti@gmail.com;Married;2;Bank Transfer;Shower Gel
+C0061;Nurul Ratih Nasyidah;Female;08/11/1990;Psr. Cikutra Barat No. 165, Dumai 99035, Bengkulu;0838-555-691;nurulratihnasyidah@gmail.com;Married;3;Internet Payment;EDT
+C0062;Elma Permata;Female;16/01/2002;Jln. Tentara Pelajar No. 345, Ambon 96499, KepR;0838-555-872;elmapermata@gmail.com;Married;4;Credit;Body Mist
+C0063;Oliva Uyainah;Female;10/04/1990;Jr. Achmad Yani No. 112, Depok 29335, Lampung;0838-555-787;olivauyainah@gmail.com;Married;3;Credit;EDT
+C0064;Dinda Andriani;Female;06/02/2002;Ds. Kebangkitan Nasional No. 40, Samarinda 95689, MalUt;0899-555-348;dindaandriani@gmail.com;Married;4;Bank Transfer;Body Mist
+C0065;Michelle Lestari;Female;7/18/1992;Ds. Bambu No. 870, Administrasi Jakarta Selatan 37291, SumUt;0899-555-858;michellelestari@gmail.com;Married;5;Internet Payment;EDT
+C0066;Padmi Iriana Pertiwi ;Female;10/24/1997;Ki. Suryo Pranoto No. 701, Bau-Bau 45030, Gorontalo;0813-555-324;padmiirianapertiwi@gmail.com;Married;4;Credit;EDT
+C0067;Puspa Wahyuni ;Female;9/19/1980;Psr. Abdul Muis No. 832, Tanjung Pinang 18827, Jambi;0813-555-881;puspawahyuni@gmail.com;Married;1;Bank Transfer;Shower Gel
+C0068;Indah Namaga;Female;3/18/1985;Psr. Sugiono No. 902, Palangka Raya 78103, MalUt;0855-555-829;indahnamaga@gmail.com;Single;5;Internet Payment;Shower Gel
+C0069;Ajeng Elisa Purwanti;Female;3/13/1984;Kpg. Moch. Yamin No. 212, Palangka Raya 81629, Maluku;0855-555-250;ajengelisapurwanti@gmail.com;Single;2;Credit;Shower Gel
+C0070;Anita Safina Melani;Female;3/27/1971;Psr. Sampangan No. 83, Mataram 36652, KalSel;0897-555-397;anitasafinamelani@gmail.com;Single;3;Bank Transfer;Body Lotion
+C0071;Raisa Andriani;Female;09/12/1973;Jln. Gremet No. 774, Solok 19759, Bengkulu;0878-555-501;raisaandriani@gmail.com;Single;4;Internet Payment;Hand Cream
+C0072;Ina Sari Padmasari;Female;07/11/2000;Ki. Muwardi No. 543, Bandar Lampung 43592, SulTra;0838-555-231;inasaripadmasari@gmail.com;Single;4;Credit;Body Mist
+C0073;Farhunnisa Purwanti;Female;01/04/1980;Dk. R.E. Martadinata No. 288, Tangerang Selatan 81242, Jambi;0897-555-895;farhunnisapurwanti@gmail.com;Single;1;Bank Transfer;Shower Gel
+C0074;Nilam Wastuti;Female;8/14/1974;Jln. Antapani Lama No. 17, Pariaman 28354, DIY;0817-555-637;nilamwastuti@gmail.com;Single;2;Virtual Account;Body Lotion
+C0075;Julia Utami ;Female;03/01/1980;Ds. Acordion No. 811, Parepare 23687, JaBar;0896-555-465;juliautami@gmail.com;Single;1;Bank Transfer;Shower Gel
+C0076;Intan Mutia Lailasari;Female;02/11/2002;Psr. Bagis Utama No. 229, Sawahlunto 38855, Aceh;0819-555-492;intanmutialailasari@gmail.com;Single;5;Credit;Body Mist
+C0077;Nyoman Siregar;Male ;11/17/1975;Ki. Suniaraja No. 32, Pekalongan 96908, SulTra;0899-555-592;nyomansiregar@gmail.com;Single;4;Bank Transfer;Shampoo
+C0078;Gaman Hendra Prabowo ;Male ;2/24/1974;Jr. Sampangan No. 46, Prabumulih 66313, BaBel;0854-555-012;gamanhendraprabowo@gmail.com;Single;1;Internet Payment;Body Lotion
+C0079;Radika Haryanto;Male ;10/20/1976;Ds. Baja Raya No. 708, Pematangsiantar 98550, Riau;0814-555-066;radikaharyanto@gmail.com;Single;1;Credit;Shampoo
+C0080;Atma Wibisono;Male ;11/08/1995;Gg. Sunaryo No. 48, Jambi 25540, Papua;0812-555-125;atmawibisono@gmail.com;Single;3;Bank Transfer;Shower Gel
+C0081;Dariati Harsaya Tamba ;Male ;12/09/1977;Psr. Bank Dagang Negara No. 981, Padang 23279, Gorontalo;0852-555-330;dariatiharsayatamba@gmail.com;Single;5;Internet Payment;Shampoo
+C0082;Purwadi Alambana Hidayanto;Male ;16/06/1984;Ds. Haji No. 672, Palangka Raya 45314, DKI;0878-555-744;purwadialambanahidayanto@gmail.com;Single;1;Credit;Shampoo
+C0083;Mariadi Rajasa;Male ;02/02/1989;Ki. Tambun No. 502, Malang 19135, Bali;0878-555-634;mariadirajasa@gmail.com;Single;4;Bank Transfer;Shampoo
+C0084;Cengkir Adriansyah;Male ;01/08/1985;Ds. Sukajadi No. 125, Balikpapan 43408, KepR;0896-555-436;cengkiradriansyah@gmail.com;Single;2;Internet Payment;Shampoo
+C0085;Purwadi Prasasta;Male ;21/01/1996;Gg. Kyai Gede No. 518, Pagar Alam 72450, Papua;0859-555-657;purwadiprasasta@gmail.com;Single;5;Credit;Shower Gel
+C0086;Timbul Gunawan;Male ;01/09/1993;Jr. Dipatiukur No. 647, Bogor 65774, KalBar;0816-555-721;timbulgunawan@gmail.com;Single;5;Bank Transfer;Shower Gel
+C0087;Imam Adika Zulkarnain ;Male ;03/05/1999;Ds. Teuku Umar No. 704, Pekanbaru 81386, Riau;0838-555-060;imamadikazulkarnain@gmail.com;Single;4;Internet Payment;Shower Gel
+C0088;Tugiman Hutagalung;Male ;14/09/1970;Kpg. Bayan No. 649, Bogor 70959, Bali;0811-555-137;tugimanhutagalung@gmail.com;Single;2;Credit;Body Lotion
+C0089;Dipa Rajasa;Male ;13/02/1979;Ds. Cokroaminoto No. 96, Prabumulih 63726, BaBel;0854-555-971;diparajasa@gmail.com;Single;1;Bank Transfer;Shampoo
+C0090;Taufik Jumari Maryadi;Male ;11/10/1984;Gg. Ahmad Dahlan No. 261, Bandar Lampung 23280, SulTra;0814-555-142;taufikjumarimaryadi@gmail.com;Married;5;Virtual Account;Shampoo
+C0091;Galih Marbun;Male ;24/01/1987;Psr. Baranang Siang Indah No. 812, Pariaman 24897, Bali;0896-555-429;galihmarbun@gmail.com;Married;1;Bank Transfer;Shampoo
+C0092;Salsabila Hariyah M.M;Female;14/09/1996;Jln. Tambak No. 657, Singkawang 98910, SumUt;0814-555-226;salsabilahariyahm.m@gmail.com;Married;1;Credit;EDT
+C0093;Sarah Ika Purnawati S.T.;Female;19/03/1999;Jln. Bakau No. 343, Binjai 22375, Jambi;0838-555-302;sarahikapurnawatis.t.@gmail.com;Married;2;Bank Transfer;EDT
+C0094;Carla Permata;Female;26/10/1999;Psr. Untung Suropati No. 275, Gunungsitoli 48405, Bengkulu;0852-555-580;carlapermata@gmail.com;Married;4;Internet Payment;EDT
+C0095;Hani Prastuti;Female;11/01/1983;Gg. Batako No. 132, Palu 84627, KalSel;0878-555-563;haniprastuti@gmail.com;Married;5;Credit;Shower Gel
+C0096;Kartika Malika Mardhiyah M.Ak;Female;08/08/1993;Jln. Sam Ratulangi No. 460, Yogyakarta 40883, Gorontalo;0838-555-498;kartikamalikamardhiyahm.ak@gmail.com;Married;3;Virtual Account;EDT
+C0097;Zahra Ami Usamah;Female;8/15/1970;Jr. Laswi No. 317, Pangkal Pinang 56117, Gorontalo;0813-555-163;zahraamiusamah@gmail.com;Married;2;Bank Transfer;Body Lotion
+C0098;Ghaliyati Pudjiastuti;Female;8/23/1975;Ki. Siliwangi No. 767, Blitar 72957, SumUt;0819-555-693;ghaliyatipudjiastuti@gmail.com;Married;3;Credit;Shower Gel
+C0099;Victoria Iriana Rahayu;Female;03/02/1984;Jln. Sudiarto No. 905, Madiun 54874, Banten;0838-555-588;victoriairianarahayu@gmail.com;Married;3;Bank Transfer;Shower Gel
+C0100;Raisa Laksita;Female;06/03/1976;Dk. Nanas No. 782, Cirebon 87056, JaTeng;0856-555-091;raisalaksita@gmail.com;Married;5;Internet Payment;Shower Gel
+C0101;Dina Nurdiyanti;Female;12/23/2002;Ds. Thamrin No. 993, Bontang 97147, KalTeng;0816-555-565;dinanurdiyanti@gmail.com;Married;3;Credit;Body Mist
+C0102;Warsa Saputra;;01/05/1995;Ds. Sukajadi No. 125, Balikpapan 43408, KepR;0811 3843 1273;warsara@gmail.com;Single;5;Bank Transfer;Shower Gel
+C0103;Warji Prayoga;Male;01/03/1920;Gg. Kyai Gede No. 518, Pagar Alam 72450, Papua;0811 3843 1274;warjioga@gmail.com;Single;2;Virtual Account;Body Lotion
+C0104;Makuta Bahuwarna Kusumo;;08/01/2002;Jr. Dipatiukur No. 647, Bogor 65774, KalBar;0811 3843 1275;makutmo@gmail.com;Single;2;Bank Transfer;Body Mist
+C0105;Lurhur Lulut Prasetyo;;14/12/1988;Kpg. Banal No. 106, Metro 26787, Banten;0816 7756 2115;lurhomm@gmail.com;Married;4;Internet Payment;Shower Gel
+C0106;Ifa Palastri;Female;03/09/1919;Ki. Suniaraja No. 32, Pekalongan 96908, SulTra;0816 7756 2116;ifapaltri@gmail.com;Married;1;Credit;Shower Gel
+C0107;Diana Pudjiastuti;;06/09/1989;Jr. Sampangan No. 46, Prabumulih 66313, BaBel;0816 7756 2117;dianti@gmail.com;Married;5;Bank Transfer;Shower Gel
+C0108;Daru Kanda Haryanto;Male;;Psr. Madiun No. 361, Serang 47911, Aceh;0816 7756 2112;darukom@gmail.com;Married;4;Credit;Shower Gel
+C0109;Sarah Hasanah;;10/07/1985;Ds. Samanhudi No. 181, Pontianak 76567, NTB;0816 7756 2113;sarapd@gmail.com;Married;2;Credit;Shower Gel
+C0110;Ajiono Galih Pradipta;Male;;Jln. Cut Nyak Dien No. 931, Administrasi Jakarta Timur 57347, Lampung;0816 7756 2114;ajionota@gmail.com;Married;1;Bank Transfer;Shampoo
+C0111;Ridwan Irawan S.Sos;Male ;25/02/1972;Psr. Sadang Serang No. 521, Sawahlunto 64746, Bengkulu;0878-555-804;ridwanirwan@gmail.com;Single;1;Internet Payment;Body Lotion
+C0112;Cakrabirawa Mangunsong;Male ;29/03/1972;Psr. K.H. Maskur No. 845, Balikpapan 68280, Papua;0896-555-174;cakrabirawamangunsong@gmail.com;Single;5;Credit;Body Lotion
+C0113;Halima Padmasari;Male ;28/11/1973;Psr. Cikapayang No. 918, Tanjung Pinang 89032, NTB;0838-555-396;halima09@gmail.com;Single;2;Virtual Account;Body Lotion
+C0114;Rahayu Wulandari M.Farm;Male ;02/11/1974;Jr. Zamrud No. 594, Palopo 99192, JaTeng;0838-555-173;Rahayuwulandari21@gmail.com;Single;1;Bank Transfer;Body Lotion
+C0115;Cinta Gina Farida;Male ;12/04/1975;Dk. Dago No. 393, Administrasi Jakarta Selatan 56078, Lampung;0838-555-319;cintaGF@gmail.com;Single;1;Credit;Body Lotion
+C0116;Mala Mayasari M.Farm;Female;21/05/1975;Ki. Baranangsiang No. 195, Pasuruan 35916, Lampung;0838-555-152;malaMMF@gmail.com;Single;3;Bank Transfer;Shower Gel
+C0117;Queen Utami;Female;15/05/1979;Ds. Suryo Pranoto No. 494, Bengkulu 75954, MalUt;0814-555-045;queenutam@gmail.com;Single;5;Internet Payment;Shower Gel
+C0118;Jagaraga Pradipta;Female;14/07/1980;Ds. Ujung No. 307, Sabang 14360, PapBar;0858-555-784;jagaraga001@gmail.com;Single;4;Credit;Shower Gel
+C0119;Maimunah Mulyani;Female;23/07/1980;Jln. Ki Hajar Dewantara No. 876, Parepare 97906, KalTim;0814-555-214;maimunahmulyani@gmial.com;Single;3;Virtual Account;Shampoo
+C0120;Citra Paramita Hasanah;Female;02/08/1981;Jr. Sumpah Pemuda No. 899, Tasikmalaya 96303, PapBar;0878-555-968;citraparamita@gmail.com;Single;2;Bank Transfer;Body Lotion
+C0121;Ira Andriani;Male ;12/12/1984;Kpg. Wahidin No. 214, Pagar Alam 28895, Gorontalo;0878-555-455;ira@gmail.com;Married;4;Credit;Shampoo
+C0122;Ami Najwa Agustina S.I.Kom;Male ;02/03/1987;Ds. Baik No. 811, Gorontalo 50652, Gorontalo;0811-555-759;aminajwa@gmail.com;Married;5;Bank Transfer;Shower Gel
+C0123;Jagaraga Utama M.Pd;Male ;22/06/1989;Gg. Pelajar Pejuang 45 No. 942, Palopo 75730, KalUt;0898-555-058;jagaragautama@gmail.com;Married;1;Internet Payment;Shampoo
+C0124;Tari Maryati;Male ;15/07/1989;Ki. Kiaracondong No. 808, Tasikmalaya 31640, KalUt;0878-555-695;tariMaryati@gmail.com;Married;2;Credit;Shampoo
+C0125;Dinda Permata;Male ;08/09/1989;Ki. Imam No. 555, Sukabumi 66558, Papua;0811-555-563;DindaPermata@gmail.com;Married;5;Bank Transfer;Shampoo
+C0126;Ophelia Cici Fujiati;Female;22/08/1990;Kpg. Ters. Buah Batu No. 543, Metro 73494, SulTeng;0856-555-605;ophellaCici@gmail.com;Married;3;Internet Payment;EDT
+C0127;Jono Tirtayasa Saefullah S.Sos;Female;02/04/1991;Jr. Bayan No. 680, Ternate 86650, NTT;0897-555-941;jonoTirtayasa@gmail.com;Married;3;Credit;EDT
+C0128;Radit Prasasta;Female;28/03/1993;Dk. Nangka No. 817, Pontianak 48562, JaBar;0878-555-284;raditPrasata@gmail.com;Married;4;Bank Transfer;EDT
+C0129;Pangeran Raharja Hutagalung M.M.;Female;10/06/1993;Gg. Baung No. 107, Solok 78998, NTT;0856-555-472;PengeranRaharja@gmail.com;Married;2;Internet Payment;Body Mist
+C0130;Novi Safitri S.Pt;Female;10/02/1997;Dk. Adisumarmo No. 227, Kotamobagu 36420, DIY;0854-555-091;NoviSafitri@gmail.com;Married;4;Internet Payment;Body Mist
+C0131;Martani Nrima Rajata;Male ;21/06/1998;Jln. Honggowongso No. 409, Lubuklinggau 71725, JaTim;0838-555-925;MartaniNrima@gmail.com;Single;3;Credit;Shower Gel
+C0132;Aris Manullang;Male ;06/04/2000;Ds. Baja No. 156, Surabaya 15932, Bali;0838-555-478;ArisManullang@gmail.com;Single;4;Bank Transfer;EDT
+C0133;Zulaikha Haryanti;Male ;19/11/2001;Kpg. Pattimura No. 577, Gorontalo 84533, KepR;0897-555-677;zulaikha.haryanti@gmail.com;Single;4;Internet Payment;EDT
+C0134;Farhunnisa Laksmiwati;Male ;14/10/2002;Dk. Suharso No. 200, Pariaman 50230, Papua;0838-555-302;farhunnisa@gmail.com;Single;4;Credit;EDT
+C0135;Salman Jabal Nainggolan S.Kom;Male ;24/12/2002;Kpg. Babadak No. 505, Lubuklinggau 10161, Maluku;0899-555-615;salma.jabal@gmail.com;Single;1;Bank Transfer;EDT
+C0136;Kardi Marpaung;Female;26/02/1975;Psr. Dipenogoro No. 57, Kendari 59628, SulTeng;0896-555-109;kardi.marpaung@gmail.com;Single;5;Internet Payment;Shampoo
+C0137;Silvia Permata S.I.Kom;Female;19/02/1977;Jln. Batako No. 880, Subulussalam 37563, DIY;0878-555-195;silvia.permata@gmail.com;Single;4;Credit;Shower Gel
+C0138;Rusman Siregar;Female;04/05/1977;Jln. Zamrud No. 496, Palopo 55525, PapBar;0899-555-218;rusman.siregar@gmail.com;Single;2;Bank Transfer;Shower Gel
+C0139;Ratih Purwanti;Female;05/02/1978;Ds. Bagas Pati No. 344, Pangkal Pinang 23474, Bengkulu;0899-555-330;rath_purwanti@gmail.com;Single;4;Virtual Account;Shower Gel
+C0140;Mulyanto Gunarto S.H.;Female;16/03/1981;Ds. Bak Air No. 507, Cilegon 44546, Papua;0858-555-559;mulyanto.gunarto@gmail.com;Single;4;Bank Transfer;Shower Gel
+C0141;Gasti Melani;Male ;11/03/1986;Dk. Yos No. 142, Tual 12890, KalSel;0816-555-266;GstinMelani@gmail.com;Married;1;Internet Payment;Shampoo
+C0142;Mahesa Lamar Nababan;Male ;05/05/1986;Ki. BKR No. 872, Serang 82076, SulUt;0856-555-654;mahesa_lamarN@gmail.com;Married;1;Credit;Shampoo
+C0143;Intan Suryatmi;Male ;27/05/1987;Dk. Gambang No. 675, Administrasi Jakarta Selatan 38838, KalTeng;0852-555-579;intan.suryatmi@gmail.com;Married;2;Bank Transfer;Shampoo
+C0144;Zizi Purwanti;Male ;16/09/1988;Psr. Bakaru No. 376, Batam 86070, Maluku;0878-555-002;zizipurnawati@gmail.com;Married;2;Internet Payment;Shampoo
+C0145;Paulin Purnawati;Male ;09/12/1988;Dk. Kebangkitan Nasional No. 93, Padangsidempuan 39360, NTB;0897-555-722;widya@gmail.com;Married;3;Credit;Shampoo
+C0146;Widya Yulianti S.IP;Female;24/01/1989;Gg. Flores No. 279, Sabang 90307, Bali;0816-555-959;wldya.yulianti@gmail.com;Married;2;Bank Transfer;Shower Gel
+C0147;Galih Mandala;Female;03/11/1989;Jr. Sudiarto No. 651, Batam 26001, KalBar;0853-555-399;galih.madala@gmail.com;Married;3;Internet Payment;Shower Gel
+C0148;Usyi Rahimah;Female;08/12/1989;Jr. Gegerkalong Hilir No. 178, Banjar 18380, JaTim;0899-555-314;usyi_rahimah@gmail.com;Married;2;Credit;Shower Gel
+C0149;Nadia Laksita;Female;03/06/1990;Ds. Bata Putih No. 127, Padang 43437, KepR;0838-555-340;nadia_laksita@gmai.com;Married;2;Bank Transfer;EDT
+C0150;Puput Astuti;Female;03/03/1991;Ki. R.E. Martadinata No. 218, Tanjungbalai 20538, BaBel;0899-555-777;puput.astuti@gmail.com;Married;4;Virtual Account;EDT
+C0151;Emin Hidayanto;Male ;20/07/1993;Dk. Gegerkalong Hilir No. 678, Palembang 14388, Maluku;0838-555-973;emin@gmail.com;Single;5;Bank Transfer;Shower Gel
+C0152;Kuncara Gunarto;Male ;08/06/1994;Jln. Jambu No. 191, Tangerang 77081, DIY;0811-555-019;kuncara.G@gmail.com;Single;5;Credit;Shower Gel
+C0153;Drajat Maman Simbolon S.Pd;Male ;21/06/1994;Kpg. Antapani Lama No. 809, Bekasi 28045, SulTeng;0878-555-102;darajat_maman@gmail.com;Single;5;Bank Transfer;Shower Gel
+C0154;Daru Sirait;Male ;01/03/1995;Kpg. Cikutra Barat No. 464, Pariaman 82031, SulTra;0898-555-351;daru.sirait@gmail.com;Single;3;Internet Payment;Shower Gel
+C0155;Zizi Pertiwi S.Sos;Male ;14/08/1997;Ds. S. Parman No. 16, Batam 95095, SulSel;0878-555-741;ZiPertiwi@gmail.com;Single;1;Credit;Shower Gel
+C0156;Pia Maya Oktaviani S.Psi;Female;07/02/1998;Ds. Bacang No. 925, Palopo 90205, Jambi;0855-555-811;pia_mya2@gmail.com;Single;4;Bank Transfer;EDT
+C0157;Makuta Argono Hidayanto S.Psi;Female;16/07/1998;Ds. Orang No. 838, Tebing Tinggi 86717, Papua;0878-555-251;makauta_argono@gmail.com;Single;4;Internet Payment;EDT
+C0158;Prayitna Prasetya Damanik;Female;20/07/2001;Ds. Jend. A. Yani No. 809, Kupang 43392, JaTim;0855-555-944;prayitna_prasetya@gmail.com;Single;4;Credit;Body Mist
+C0159;Wasis Halim;Female;18/08/2002;Jr. Bakin No. 196, Mataram 69338, SulBar;0896-555-689;wasis_hal@gmail.com;Single;1;Bank Transfer;Body Mist
+C0160;Icha Cici Yolanda;Female;25/08/2002;Ds. Madiun No. 96, Manado 73947, Lampung;0852-555-058;icha_cici@gmail.com;Single;1;Internet Payment;Body Mist
+C0161;Intan Suryatmi;Male ;05/08/1971;Kpg. Bakaru No. 348, Parepare 31574, NTB;0858-555-487;intan_suryatmi@gmail.com;Married;4;Credit;Body Lotion
+C0162;Hasna Ciaobella Mandasari;Male ;18/09/1972;Dk. Asia Afrika No. 230, Mataram 47330, KalTim;0878-555-482;hasna_ciaobella@gmail.com;Married;5;Credit;Body Lotion
+C0163;Gawati Haryanti S.Farm;Male ;28/03/1975;Jln. Otto No. 900, Tasikmalaya 46505, Riau;0898-555-944;gawati_haryanti@gmail.com;Married;4;Bank Transfer;Body Lotion
+C0164;Karsana Jailani;Male ;05/01/1978;Ki. R.M. Said No. 756, Bau-Bau 17713, SulTra;0838-555-159;Karsana@gmail.com;Married;1;Internet Payment;Shampoo
+C0165;Galuh Siregar;Male ;16/12/1979;Jln. Tambun No. 432, Tomohon 79993, SulBar;0858-555-721;galuh@gmail.com;Married;4;Credit;Shampoo
+C0166;Margana Sidiq Pradana;Female;06/06/1982;Ki. Cut Nyak Dien No. 873, Palopo 65126, Banten;0856-555-136;marga.sidig@gmail.com;Married;2;Virtual Account;Shower Gel
+C0167;Eman Lembah Sitompul;Female;25/11/1983;Kpg. Pahlawan No. 594, Tidore Kepulauan 55705, DIY;0816-555-721;eman.lembah@gmail.com;Married;2;Bank Transfer;Shower Gel
+C0168;Nrima Elvin Widodo M.Ak;Female;05/05/1985;Psr. Gatot Subroto No. 805, Payakumbuh 46850, DIY;0878-555-879;nrm.elvin@gmail.com;Married;1;Credit;Body Lotion
+C0169;Gangsar Uwais;Female;17/10/1987;Ds. Rumah Sakit No. 456, Tanjungbalai 66073, SulTeng;0838-555-824;gangsar@gmail.com;Married;4;Bank Transfer;Shower Gel
+C0170;Cager Adriansyah M.TI.;Female;07/05/1988;Jr. Zamrud No. 232, Yogyakarta 24171, Papua;0878-555-057;cager@gmail.com;Married;5;Internet Payment;EDT
+C0171;Prakosa Utama;Male ;15/05/1989;Kpg. Uluwatu No. 97, Yogyakarta 94061, KalTim;0816-555-599;prakosa.utma@gmail.com;Single;3;Credit;Shampoo
+C0172;Ulva Suartini S.E.;Male ;09/01/1990;Gg. Jambu No. 907, Serang 11062, SulBar;0838-555-672;ulva@gmail.com;Single;2;Virtual Account;Shower Gel
+C0173;Kasiran Sihombing S.Sos;Male ;05/12/1992;Ds. Nanas No. 350, Kupang 89548, Bengkulu;0838-555-058;kasiran@gmail.com;Single;3;Bank Transfer;Shower Gel
+C0174;Mahfud Ivan Pranowo;Male ;13/04/1993;Ki. Katamso No. 28, Bau-Bau 34552, Aceh;0878-555-635;mahfud@gmail.com;Single;4;Credit;Shower Gel
+C0175;Lanjar Simbolon;Male ;20/11/1993;Gg. Qrisdoren No. 405, Magelang 40738, MalUt;0899-555-152;lanjar_s@gmail.com;Single;3;Bank Transfer;Shower Gel
+C0176;Rika Fujiati;Female;20/08/1994;Dk. Teuku Umar No. 302, Palembang 86118, SulSel;0856-555-945;rika@gmail.com;Single;4;Internet Payment;EDT
+C0177;Kezia Wijayanti;Female;27/09/1995;Dk. Yap Tjwan Bing No. 821, Tebing Tinggi 88686, PapBar;0838-555-563;kezia_wijayanti@gmail.com;Single;2;Credit;Shower Gel
+C0178;Genta Uyainah S.T.;Female;27/05/1996;Dk. HOS. Cjokroaminoto (Pasirkaliki) No. 195, Gunungsitoli 13481, KalTeng;0852-555-467;genta_u@gmail.com;Single;5;Bank Transfer;EDT
+C0179;Harsana Simbolon;Female;11/05/1997;Jln. Orang No. 533, Depok 63009, DIY;0857-555-227;harsana_s@gmail.com;Single;4;Internet Payment;EDT
+C0180;Kani Safitri S.IP;Female;19/07/1997;Dk. Raya Setiabudhi No. 941, Sungai Penuh 67332, Gorontalo;0896-555-862;kani@gmail.com;Single;2;Credit;EDT
+C0181;Wahyu Utama;Male ;15/09/1997;Ds. Sutoyo No. 609, Padangsidempuan 82313, SulTeng;0814-555-856;wahyu_utama@gmail.com;Married;5;Credit;Shower Gel
+C0182;Lintang Hassanah;Male ;29/12/1997;Jr. Basudewo No. 11, Sibolga 12264, MalUt;0878-555-298;lintang_hassanah@gmail.com;Married;1;Bank Transfer;Shower Gel
+C0183;Lembah Narpati;Male ;19/04/1999;Ds. Bambu No. 851, Tebing Tinggi 79796, BaBel;0838-555-857;lembah_narpati@gmail.com;Married;3;Internet Payment;Shower Gel
+C0184;Gawati Hassanah;Male ;03/02/2000;Psr. Casablanca No. 870, Pasuruan 83680, KepR;0813-555-919;gawati@gmail.com;Married;5;Credit;EDT
+C0185;Parman Budiyanto;Male ;02/01/2002;Jln. Sentot Alibasa No. 199, Singkawang 34253, KalTeng;0854-555-281;parman_budiyanto@gmail.com;Married;2;Bank Transfer;EDT
+C0186;Marwata Kuswoyo;Female;16/11/1976;Gg. Padang No. 170, Tanjung Pinang 20957, Aceh;0838-555-392;marwata_k@gmail.com;Married;4;Virtual Account;Body Lotion
+C0187;Uda Zulkarnain S.Sos;Female;12/05/1977;Kpg. Astana Anyar No. 308, Manado 72351, SulTra;0896-555-509;uda_zs@gmail.com;Married;3;Bank Transfer;Shower Gel
+C0188;Elma Rahmawati;Female;03/02/1979;Jr. Uluwatu No. 402, Medan 18869, SumSel;0898-555-020;elma_rahmawati@gmail.com;Married;2;Credit;Shower Gel
+C0189;Balijan Tamba;Female;15/07/1979;Ki. Juanda No. 503, Kendari 79743, Jambi;0816-555-975;balijan@gmail.com;Married;2;Bank Transfer;Shower Gel
+C0190;Niyaga Niyaga Tamba;Female;25/09/1979;Psr. Bahagia No. 285, Probolinggo 95072, Jambi;0811-555-198;niyaga_tamba@gmail.com;Married;5;Internet Payment;Body Lotion
+C0191;Rafid Wasita;Male ;27/08/1980;Kpg. Uluwatu No. 311, Banjar 34579, JaBar;0812-555-938;rafid_w@gmail.com;Single;2;Credit;Shampoo
+C0192;Rudi Sirait S.I.Kom;Male ;16/10/1980;Gg. Lada No. 747, Mataram 83001, NTB;0878-555-686;rudi_sirait@gmail.com;Single;4;Virtual Account;Shampoo
+C0193;Raisa Riyanti M.Pd;Male ;17/01/1982;Ki. Dewi Sartika No. 410, Padangsidempuan 28123, SulUt;0817-555-504;raisa@gmail.com;Single;1;Bank Transfer;Shampoo
+C0194;Umay Kusumo;Male ;24/02/1984;Jln. Kebangkitan Nasional No. 607, Prabumulih 77418, JaBar;0859-555-427;umay@gmail.com;Single;5;Credit;Shampoo
+C0195;Umi Usada;Male ;14/06/1985;Jr. Otista No. 884, Administrasi Jakarta Pusat 69529, NTT;0838-555-512;umiusada@gmail.com;Single;3;Bank Transfer;Shampoo
+C0196;Harsana Marbun;Female;17/02/1986;Jln. Baja No. 654, Bengkulu 16187, NTB;0815-555-410;harsana_m@gmail.com;Single;3;Internet Payment;Shower Gel
+C0197;Paris Lintang Mulyani;Female;26/07/1986;Psr. S. Parman No. 161, Malang 13105, SulTra;0818-555-088;paris_l@gmail.com;Single;4;Credit;Shower Gel
+C0198;Purwadi Widodo;Female;16/08/1986;Psr. Asia Afrika No. 193, Cimahi 41868, KalSel;0838-555-199;purwadiwidodo@gmail.com;Single;4;Bank Transfer;EDT
+C0199;Rama Sitorus S.H.;Female;07/10/1986;Jr. Bhayangkara No. 485, Pagar Alam 47557, KalTim;0896-555-938;rama@gmail.com;Single;2;Virtual Account;Shower Gel
+C0200;Kayun Sitompul;Female;04/04/1987;Ds. Baung No. 17, Tarakan 32695, Aceh;0878-555-410;kayun@gmail.com;Single;4;Bank Transfer;EDT
+C0201;Hana Rahayu;Male ;12/09/1987;Ki. Cut Nyak Dien No. 106, Sibolga 59614, SulSel;0838-555-856;hana@gmail.com;Married;2;Internet Payment;Shampoo
+C0202;Anggabaya Darmanto Hutagalung;Male ;28/03/1991;Ds. Baabur Royan No. 529, Jayapura 39435, Aceh;0897-555-732;anggabaya@gmail.com;Married;2;Credit;Shower Gel
+C0203;Jumadi Tugiman Maheswara;Male ;15/07/1991;Kpg. Bara No. 960, Ambon 84365, NTB;0899-555-544;jumadi@gmail.com;Married;2;Bank Transfer;Shower Gel
+C0204;Jasmin Widiastuti;Male ;23/10/1991;Dk. Sutarjo No. 113, Padangpanjang 77186, Riau;0817-555-552;jasmin@gmail.com;Married;5;Credit;Shower Gel
+C0205;Kamaria Winarsih;Male ;05/04/1993;Dk. Kalimantan No. 998, Balikpapan 88974, Gorontalo;0899-555-468;kamaria@gmail.com;Married;1;Credit;Shower Gel
+C0206;Juli Gina Maryati;Female;17/09/1994;Kpg. Yap Tjwan Bing No. 669, Sorong 21460, SulUt;0854-555-220;juli@gmail.com;Married;4;Bank Transfer;EDT
+C0207;Jabal Hutasoit;Female;19/09/1994;Gg. Kalimantan No. 828, Tanjungbalai 15253, SumBar;0819-555-926;jabal@gmail.com;Married;2;Internet Payment;Shower Gel
+C0208;Jelita Prastuti;Female;07/09/1996;Jln. Warga No. 286, Sibolga 20878, Lampung;0878-555-174;jelita@gmail.com;Married;3;Credit;Body Mist
+C0209;Ana Palastri;Female;24/10/1996;Jln. Yos No. 45, Pekanbaru 65342, Gorontalo;0819-555-546;anapalastri@gmail.com;Married;2;Virtual Account;EDT
+C0210;Septi Farhunnisa Laksita S.Sos;Female;26/07/1999;Dk. Jayawijaya No. 327, Tual 45349, Aceh;0878-555-015;septi@gmail.com;Married;2;Bank Transfer;EDT
+C0211;Tira Uchita Pratiwi;Female;14/02/1971;Ds. Bawal No. 160, Palopo 52639, KalSel;(+62) 835 7970 293;tirauiwi@gmail.com;Single;4;Credit;Body Lotion
+C0212;Bakidin Januar;Male;10/08/1971;Ki. Basudewo No. 581, Bogor 78539, Riau;(+62) 835 7970 294;bakiduar@gmail.com;Single;2;Bank Transfer;Body Lotion
+C0213;Kuncara Pratama;Male;01/01/1972;Dk. Otista No. 257, Mojokerto 72867, Maluku;(+62) 835 7970 295;kuncama@gmail.com;Single;1;Credit;Body Lotion
+C0214;Galak Mandala;Male;07/09/1972;Jr. Bahagia No. 714, Manado 85811, DKI;(+62) 835 7970 296;galati@gmail.com;Single;5;Bank Transfer;Body Lotion
+C0215;Taufan Saragih;Male;19/10/1974;Ki. Bambu No. 883, Magelang 94996, MalUt;(+62) 835 7970 297;taufaspd@gmail.com;Single;2;Internet Payment;Body Lotion
+C0216;Saka Saputra;Male;29/11/1976;Jr. Suryo No. 119, Administrasi Jakarta Selatan 26891, PapBar;(+62) 846 2200 2826;sakasase@gmail.com;Single;2;Credit;Shampoo
+C0217;Zulaikha Wahyuni;Female;04/10/1977;Ki. Raya Ujungberung No. 114, Serang 69784, SulBar;-1934;zulaiksos@gmail.com;Single;1;Virtual Account;Shower Gel
+C0218;Jasmani Warsita Sihombing;Male;12/03/1981;Jr. Abdul. Muis No. 811, Ambon 11491, SumBar;-1831;jasmaing@gmail.com;Single;4;Credit;Shampoo
+C0219;Endra Habibi;Male;14/04/1983;Dk. Supono No. 421, Lhokseumawe 96219, JaTeng;-1574;endribi@gmail.com;Single;1;Virtual Account;Shampoo
+C0220;Nurul Astuti;Female;30/11/1983;Ki. Sutarjo No. 529, Langsa 75831, Lampung;-1672;nuruti@gmail.com;Single;1;Credit;Shower Gel
+C0221;Anastasia Wastuti;Female;10/02/1984;Dk. Sutoyo No. 933, Banda Aceh 85849, SulUt;-2179;anastauti@gmail.com;Single;4;Bank Transfer;Shower Gel
+C0222;Kamal Winarno;Male;06/03/1985;Jr. Yohanes No. 505, Prabumulih 10825, Riau;-1982;kamalwno@gmail.com;Single;4;Bank Transfer;Shampoo
+C0223;Bakidin Paiman Kusumo ;Male;11/09/1985;Ki. Bakhita No. 791, Dumai 84157, SulUt;-1660;bakigz@gmail.com;Married;5;Bank Transfer;Shampoo
+C0224;Laras Eli Utami;Female;20/09/1985;Jr. Basuki No. 309, Bandar Lampung 91375, Bengkulu;-1988;larami@gmail.com;Married;3;Internet Payment;Shower Gel
+C0225;Gina Zulaika;Female;23/06/1988;Kpg. Arifin No. 926, Mojokerto 67350, SulBar;-1754;ginaka@gmail.com;Married;2;Internet Payment;Shower Gel
+C0226;Dian Rahmawati;Female;28/04/1991;Gg. Kalimantan No. 872, Binjai 87798, SumSel;-2147;dianrati@gmail.com;Married;2;Credit;EDT
+C0227;Cengkir Latupono;Male;11/10/1994;Kpg. Dewi Sartika No. 393, Bitung 44366, Jambi;-2241;cengno@gmail.com;Married;1;Credit;Shower Gel
+C0228;Endah Widiastuti;Female;19/01/1996;Jr. Baung No. 682, Kendari 18818, NTB;-1997;endahuti@gmail.com;Married;5;Bank Transfer;EDT
+C0229;Sabri Wibisono;Male;05/02/1998;Ki. Warga No. 504, Medan 97480, Lampung;-1509;sabriono@gmail.com;Married;3;Virtual Account;Shower Gel
+C0230;Wadi Maryadi Sirait;Male;04/04/1998;Gg. Ki Hajar Dewantara No. 214, Binjai 32897, SulTra;-2178;wadimom@gmail.com;Married;1;Credit;Shower Gel
+C0231;Febi Elisa Puspita;Female;14/08/1999;Jln. Madrasah No. 421, Banjar 73750, JaBar;-1908;febist@gmail.com;Married;3;Internet Payment;EDT
+C0232;Kamal Suwarno;Male;11/08/2000;Psr. Kartini No. 935, Batu 23246, PapBar;-1710;kamalno@gmail.com;Married;4;Credit;EDT
+C0233;Maimunah Syahrini Winarsih;Female;17/05/2001;Jln. Setiabudhi No. 60, Administrasi Jakarta Selatan 61054, SumSel;-1912;maimupd@gmail.com;Married;1;Credit;Body Mist
+C0234;Kamaria Uyainah;Female;28/05/2001;Psr. Raden Saleh No. 183, Sawahlunto 99425, Maluku;(+62) 816 2200 2827;kamariei@gmail.com;Married;1;Bank Transfer;Body Mist
+C0235;Melinda Ulva Yuniar;Female;03/09/2001;Kpg. Jaksa No. 508, Bandar Lampung 21025, SulTra;(+62) 816 2200 2828;melindiar@gmail.com;Married;1;Virtual Account;Body Mist
+C0236;Cecep Jinawi Prabowo;Male;06/05/1971;Jln. Jaksa No. 368, Palembang 80559, KalSel;(+62) 816 2200 2829;cecemak@gmail.com;Married;1;Credit;Body Lotion
+C0237;Darijan Ramadan;Male;09/11/1971;Dk. Ters. Pasir Koja No. 428, Madiun 61756, Riau;(+62) 816 2200 2830;darijadan@gmail.com;Married;4;Virtual Account;Body Lotion
+C0238;Betania Dina Hartati;Female;11/11/1971;Ds. Taman No. 507, Serang 81298, KalTim;(+62) 816 2200 2831;betaniist@gmail.com;Married;3;Internet Payment;Body Lotion
+C0239;Maida Eli Widiastuti;Female;04/08/1975;Dk. Bahagia No. 676, Yogyakarta 71983, Gorontalo;(+62) 816 2200 2832;maidaerm@gmail.com;Married;1;Credit;Hand Cream
+C0240;Harsaya Hakim;Male;13/08/1976;Jln. Padma No. 631, Bima 14330, Gorontalo;(+62) 816 2200 2833;harskim@gmail.com;Single;3;Bank Transfer;Shampoo
+C0241;Lulut Rajata;Male;07/09/1978;Ds. Pelajar Pejuang 45 No. 818, Lhokseumawe 52362, SulTeng;(+62) 816 2200 2834;luluei@gmail.com;Single;5;Internet Payment;Shampoo
+C0242;Jabal Hutagalung;Male;18/02/1979;Kpg. Thamrin No. 489, Prabumulih 58915, SulBar;(+62) 839 2210 2820;jabang@gmail.com;Single;4;Credit;Shampoo
+C0243;Tira Purwanti;Female;07/03/1981;Ds. Baranang Siang Indah No. 321, Batu 49521, SumBar;(+62) 839 2210 2821;tiraputi@gmail.com;Single;2;Bank Transfer;Shower Gel
+C0244;Liman Saadat Wijaya;Male;25/07/1981;Psr. Flora No. 344, Tarakan 57744, Gorontalo;(+62) 839 2210 2822;limanse@gmail.com;Single;5;Virtual Account;Shampoo
+C0245;Titin Yuliarti;Female;02/09/1981;Jr. Ikan No. 193, Pangkal Pinang 95869, SulBar;(+62) 839 2210 2823;titinom@gmail.com;Single;2;Bank Transfer;Shower Gel
+C0246;Nugraha Napitupulu;Male;23/04/1983;Jr. Aceh No. 184, Magelang 53035, Papua;(+62) 839 2210 2824;nugrkom@gmail.com;Single;5;Credit;Shampoo
+C0247;Rendy Prayoga;Male;10/05/1984;Jr. Yohanes No. 679, Tanjungbalai 55559, Bali;(+62) 839 2210 2825;rendga@gmail.com;Single;2;Bank Transfer;Shampoo
+C0248;Cakrabuana Setiawan;Male;01/12/1984;Ki. Gajah No. 436, Bandar Lampung 88675, Papua;(+62) 839 2210 2826;cakrabsos@gmail.com;Single;3;Internet Payment;Shampoo
+C0249;Harjasa Bakidin Winarno;Male;08/01/1985;Psr. Madiun No. 361, Serang 47911, Aceh;(+62) 839 2210 2827;harjmpd@gmail.com;Single;2;Credit;Shampoo
+C0250;Mila Maryati;Female;16/06/1987;Ds. Samanhudi No. 181, Pontianak 76567, NTB;(+62) 819 1810 1390;milati@gmail.com;Single;2;Virtual Account;Shower Gel
+C0251;Shakila Susanti;Female;03/07/1987;Jln. Cut Nyak Dien No. 931, Administrasi Jakarta Timur 57347, Lampung;(+62) 819 1810 1391;shakinti@gmail.com;Single;4;Credit;Shower Gel
+C0252;Kezia Rahayu;Female;05/05/1988;Ds. Urip Sumoharjo No. 676, Bengkulu 36860, JaTeng;(+62) 819 1810 1392;keziayu@gmail.com;Single;2;Bank Transfer;Shower Gel
+C0253;Emong Mahfud Kusumo;Male;23/09/1990;Psr. Kusmanto No. 428, Pagar Alam 23468, KalBar;(+62) 819 1810 1393;emongmgz@gmail.com;Single;5;Internet Payment;Shower Gel
+C0254;Queen Kuswandari;Female;15/11/1992;Psr. Bappenas No. 697, Administrasi Jakarta Utara;(+62) 819 1810 1394;queeri@gmail.com;Single;4;Credit;EDT
+C0255;Calista Nasyiah;Female;18/11/1994;Jln. Jambu No. 680, Mojokerto 18150, JaTim;(+62) 819 1810 1395;caliiah@gmail.com;Single;5;Bank Transfer;EDT
+C0256;Dian Dina Farida;Female;04/07/1995;Ds. Pelajar Pejuang 45 No. 380, Kupang 42164, DKI;(+62) 819 1810 1396;diandash@gmail.com;Married;2;Virtual Account;Hand Cream
+C0257;Novi Sudiati;Female;15/07/1996;Gg. Urip Sumoharjo No. 697, Bima 71106, Aceh;(+62) 819 1810 1397;novisuti@gmail.com;Married;3;Credit;EDT
+C0258;Wadi Wakiman Maheswara;Male;09/10/1996;Jln. Babadan No. 833, Balikpapan 32940, KalTim;(+62) 819 1810 1398;wadiwakom@gmail.com;Married;3;Bank Transfer;Shower Gel
+C0259;Gina Palastri;Female;21/07/1998;Ds. Bakhita No. 1, Kediri 20725, KalTim;(+62) 819 1810 1399;ginapatri@gmail.com;Married;1;Internet Payment;EDT
+C0260;Laksana Ardianto;Male;29/04/2000;Gg. Jagakarsa No. 333, Madiun 19551, SulTeng;(+62) 819 1810 1400;laksato@gmail.com;Married;3;Credit;EDT
